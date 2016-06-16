@@ -1,0 +1,14 @@
+>>>descompactar o arquivo TrabGrafos1bim.rar
+
+>>>pelo terminal de comandos, navegar até a pasta descompactada
+
+>>>utilizar o comando java -jar networkofthrones.jar
+
+>>>Digitar o nome dos personagens que quer consultar
+
+
+O Trabalho foi desenvolvido com eclipse e está pronto para ser importado pela IDE, caso queira analisar o código
+
+Sobre:
+>>Aluno: Victor Loquete Pupim
+>>RA: 64573

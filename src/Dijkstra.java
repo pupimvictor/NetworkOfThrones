@@ -28,9 +28,7 @@ public class Dijkstra {
 					relax(u, v);
 				}
 			}
-			
 		}
-	
 	}
 	
 	private void relax(Person u, Person v) {

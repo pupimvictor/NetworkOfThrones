@@ -19,7 +19,6 @@ public class BridgesDFS {
 				bridgeVisit(p);
 			}
 		}
-
 		return bridges;
 	}
 
@@ -39,7 +38,7 @@ public class BridgesDFS {
 				
 				u.setLow(Math.min(u.getLow(), v.getLow()));
 				
-				if (v.getLow() > u.getLow()) {
+				if (v.getLow() > u.getDisc()) {
 					bridges.add(new Connection(u, v, 1));
 				}
 			}else if (v != u.getParent()) {
